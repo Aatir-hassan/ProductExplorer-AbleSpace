@@ -1,0 +1,52 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 31614,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2025-10-01T11:23:40.613Z",
+  "crawlerFinishedAt": "2025-10-01T11:25:38.895Z",
+  "statsPersistedAt": "2025-10-01T11:25:38.896Z",
+  "crawlerRuntimeMillis": 118436,
+  "crawlerLastStartTimestamp": 1759317820460,
+  "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 31614,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 31614,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {
+    "200": 4
+  },
+  "errors": {
+    "C:\\Users\\Administrator\\Documents\\Assignment-AbleSpaceNew\\backend\\src\\modules\\scraping\\scraping.service.ts:120:20": {
+      "missing error code": {
+        "TimeoutError": {
+          "page.waitForSelector: Timeout 20000ms exceeded.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "C:\\Users\\Administrator\\Documents\\Assignment-AbleSpaceNew\\backend\\src\\modules\\scraping\\scraping.service.ts:120:20": {
+      "missing error code": {
+        "TimeoutError": {
+          "page.waitForSelector: Timeout 20000ms exceeded.": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
+}
