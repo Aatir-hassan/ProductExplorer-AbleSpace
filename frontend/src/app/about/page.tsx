@@ -100,7 +100,7 @@ export default function AboutPage() {
           <div className="bg-blue-50 rounded-lg p-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Contact & Support</h2>
             <p className="text-gray-600 mb-4">
-              Have questions or feedback? We'd love to hear from you!
+              Have questions or feedback? We would love to hear from you!
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
