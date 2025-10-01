@@ -8,7 +8,7 @@ This is a full-stack application with:
 - **Frontend**: Next.js 14 with App Router, TypeScript, Tailwind CSS
 - **Backend**: NestJS with TypeScript, PostgreSQL database
 - **Scraping**: Crawlee + Playwright for World of Books data extraction
-- **Deployment**: Vercel (frontend) + Railway/Render (backend)
+- **Deployment**: netlify (frontend) + Render (backend)
 
 ## Tech Stack
 
