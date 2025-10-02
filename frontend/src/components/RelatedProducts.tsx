@@ -1,9 +1,10 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { api, Product } from '@/lib/api'
-import { ProductCard } from './ProductCard'
+import { api, Product } from '@/lib/api's
 import { Loader2, Package } from 'lucide-react'
+import { ProductCard } from './ProductCard'
+
 
 interface RelatedProductsProps {
   productId: string
