@@ -3,8 +3,9 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { cn } from '@/lib/utils'
-import { BookOpen, Search, Menu, X } from 'lucide-react'
 import { useState } from 'react'
+import { BookOpen, Search, Menu, X } from 'lucide-react'
+
 
 export function Navigation() {
   const pathname = usePathname()
