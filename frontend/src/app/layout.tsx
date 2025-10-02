@@ -4,8 +4,6 @@ import "./globals.css";
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 
-
-
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
